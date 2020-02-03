@@ -1,0 +1,7 @@
+.viewport {
+  width: 150px;
+  overflow-y: auto;
+}
+.item {
+  height: 20px;
+}
