@@ -1,5 +1,5 @@
-## react-virtual-scrolling
+## Virtual Scrolling Component for React
 
-<br>
+ - [./basics/src/VirtualScroller.js](https://github.com/dhilt/react-virtual-scrolling/tree/basics/basics/src/VirtualScroller.js) – component implementation
 
-Implementation of the Virtual scrolling component for React could be found in **[basics branch](https://github.com/dhilt/react-virtual-scrolling/tree/basics)**.
+ - [./basics/public/index.js](https://github.com/dhilt/react-virtual-scrolling/tree/basics/basics/public/index.js) – usage sample
