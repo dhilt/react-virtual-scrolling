@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,UACE,WAAY,CACZ,eACF,CACA,MACE,WACF","file":"main.b427dff9.chunk.css","sourcesContent":[".viewport {\n  width: 150px;\n  overflow-y: auto;\n}\n.item {\n  height: 20px;\n}"]}
