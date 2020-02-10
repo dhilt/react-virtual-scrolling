@@ -1,5 +1,7 @@
 ## Virtual Scrolling Component for React
 
+ - [Virtual scrolling: Core principles and basic implementation in React](https://blog.logrocket.com/virtual-scrolling-core-principles-and-basic-implementation-in-react/) – article on LogRocket
+ 
  - [./basics/src/VirtualScroller.js](https://github.com/dhilt/react-virtual-scrolling/blob/basics/basics/src/VirtualScroller.js) – VS Component implementation
 
  - [./basics/src/index.js](https://github.com/dhilt/react-virtual-scrolling/blob/basics/basics/src/index.js) – usage sample (App Component)
