@@ -1,5 +1,5 @@
-## react-virtual-scrolling
+## Virtual Scrolling Component for React. Entire Window
 
-<br>
+ - [./entire-window/src/VirtualScroller.js](https://github.com/dhilt/react-virtual-scrolling/blob/entire-window/entire-window/src/VirtualScroller.js) – VS Component implementation
 
-Implementation of the Virtual scrolling component for React could be found in **[basics branch](https://github.com/dhilt/react-virtual-scrolling/tree/basics)**.
+ - [./entire-window/src/index.js](https://github.com/dhilt/react-virtual-scrolling/blob/entire-window/entire-window/src/index.js) – usage sample (App Component)

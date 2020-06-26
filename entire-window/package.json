@@ -1,0 +1,35 @@
+{
+  "name": "react-virtual-scrolling-entire-window",
+  "version": "0.0.1",
+  "description": "Virtual scrolling component for React, entire window",
+  "author": {
+    "name": "dhilt",
+    "email": "dhilt.public@gmail.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start --no-cache",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
